@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/classes-e2ad118a95ff34e479328f013ba2a855bead96da.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/classes-b6ce7e79a26ce3423cb0d6642ff1e024f1417407.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3713f30726299231eddfb206043ebb72a2519b6f">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/classes-55a26dc433c9b006bff992eaf89b690fee6b4558.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/classes-5cba2fa126a3296646decd502d3faee8b4519608.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/classes-4e4887431d542f85323356b79e4d9b3fdf59f562.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/classes-a85de9492d3a03f00ed1c8642f4019e9c1a3594f.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/classes-9b2fe23cb0baaa16289ddcf09b6f9aaa57953e19.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/classes-f3c95af5d039522f42703817dea63d47604fee00.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/glide-3.5.2-979e7844379acc304708eba7ddba380c0360d240.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/classes-e19c1e2cf017810c45b6e0fff513fdb0c7b22c4f.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-10db0e710b3fce1657ce7e295a1dfd0eba2075c0.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/classes-3b0b4268365f57ee80abe46ee7188c4014b9159f.jar" />
+    </item>
+    <item
+        jar="/Users/azgolinski/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/azgolinski/src/AndroidStudio/Sunshine-Working/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-0abddc50e35e50fde8f12a414009c17a47a58ef1.jar" />
+    </item>
+
+</items>
