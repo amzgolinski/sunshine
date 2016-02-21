@@ -130,6 +130,7 @@
       <meta-data android:name="android.appwidget.provider"
                  android:resource="@xml/widget_info_today" />
     </receiver>
+
     <service android:name=".widget.TodayWidgetIntentService" />
 
     <receiver android:name=".widget.DetailWidgetProvider"
@@ -142,7 +143,8 @@
       <meta-data android:name="android.appwidget.provider"
                  android:resource="@xml/widget_info_detail" />
     </receiver>
-  <service android:name=".widget.DetailWidgetRemoteViewsService"
+
+    <service android:name=".widget.DetailWidgetRemoteViewsService"
            android:enabled="@bool/widget_detail_enabled"
            android:exported="false"
            android:permission="android.permission.BIND_REMOTEVIEWS" />

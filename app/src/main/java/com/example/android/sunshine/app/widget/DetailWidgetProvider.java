@@ -44,8 +44,10 @@ public class DetailWidgetProvider extends AppWidgetProvider {
       } else {
         setRemoteAdapterV11(context, views);
       }
-      boolean useDetailActivity = context.getResources()
-          .getBoolean(R.bool.use_detail_activity);
+
+      boolean useDetailActivity =
+          context.getResources().getBoolean(R.bool.use_detail_activity);
+
       Intent clickIntentTemplate = useDetailActivity
           ? new Intent(context, DetailActivity.class)
           : new Intent(context, MainActivity.class);

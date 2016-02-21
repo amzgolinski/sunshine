@@ -19,9 +19,11 @@ import com.example.android.sunshine.app.data.WeatherContract;
 
 /**
  * {@link ForecastAdapter} exposes a list of weather forecasts
- * from a {@link android.database.Cursor} to a {@link android.support.v7.widget.RecyclerView}.
+ * from a {@link android.database.Cursor} to a
+ * {@link android.support.v7.widget.RecyclerView}.
  */
-public class ForecastAdapter extends RecyclerView.Adapter<ForecastAdapter.ForecastAdapterViewHolder> {
+public class ForecastAdapter extends
+    RecyclerView.Adapter<ForecastAdapter.ForecastAdapterViewHolder> {
 
   private static final int VIEW_TYPE_TODAY = 0;
   private static final int VIEW_TYPE_FUTURE_DAY = 1;
@@ -38,7 +40,8 @@ public class ForecastAdapter extends RecyclerView.Adapter<ForecastAdapter.Foreca
   /**
    * Cache of the children views for a forecast list item.
    */
-  public class ForecastAdapterViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
+  public class ForecastAdapterViewHolder extends RecyclerView.ViewHolder
+      implements View.OnClickListener {
     public final ImageView mIconView;
     public final TextView mDateView;
     public final TextView mDescriptionView;
@@ -78,7 +81,8 @@ public class ForecastAdapter extends RecyclerView.Adapter<ForecastAdapter.Foreca
   }
 
   /*
-      This takes advantage of the fact that the viewGroup passed to onCreateViewHolder is the
+      This takes advantage of the fact that the viewGroup passed to
+      onCreateViewHolder is the
       RecyclerView that will be used to contain the view, so that it can get the current
       ItemSelectionManager from the view.
 
